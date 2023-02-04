@@ -11,3 +11,10 @@ Using OpenWeatherMap API, Geoapify API, & Geoapify Routing API I completed the f
 - Data Source: WeatherPy_Database.csv, OpenWeatherMap API
 - Software: Python 3.6.1, Jupyter Notebook 
 
+## Destinations Map
+Destinations with the maximum temperatures meating the user input of between 70 and 90 degrees.
+![WeatherPy_vacation_map](https://github.com/BlazeMedina/WeatherPy/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+
+## Travel Itinerary Map
+Travel route to four cities in Brazil.
+![WeatherPy_travel_map](https://github.com/BlazeMedina/WeatherPy/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
